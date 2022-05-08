@@ -1,0 +1,6 @@
+rmiregistry
+
+
+java AddServer
+
+java AddClient 8 9
